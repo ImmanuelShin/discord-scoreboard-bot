@@ -1,0 +1,18 @@
+# Dependencies
+/node_modules
+/bower_components
+/vendor
+
+# Environment Variables
+.env
+
+.venv
+
+# Build and temporary files
+/dist
+/build
+/tmp
+*.log
+*.swp
+.DS_Store # Mac
+Thumbs.db # Windows
