@@ -1,0 +1,1 @@
+Scoreboard bot for discord.
